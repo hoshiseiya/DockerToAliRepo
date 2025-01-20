@@ -3,4 +3,5 @@ nginx:1.27.2
 mysql:5.7.44
 nacos/nacos-server:v2.0.4
 minio/minio:RELEASE.2021-06-17T00-10-46Z
-
+openjdk:8
+openjdk:17

@@ -1,1 +1,1 @@
-rabbitmq:3.13-management
+apache-zookeeper:3.5.6

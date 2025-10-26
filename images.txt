@@ -1,1 +1,1 @@
-jenkins/jenkins:lts
+redroid/redroid-priv:11.0.0-latest
